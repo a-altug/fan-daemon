@@ -10,8 +10,8 @@
 #include <glob.h>
 
 // the following three defines can be modified to change the daemon behaviour
-#define FAN_OFF_TEMP 45
-#define FAN_MAX_TEMP 60
+#define FAN_OFF_TEMP 20
+#define FAN_MAX_TEMP 45
 #define UPDATE_INTERVAL 2
 // end of modifiable code
 
